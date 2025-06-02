@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Harsh Mistry 👋</h1>
 
 <p align="center">
-  🎓 ICT Undergrad | 💻 Competitive Programmer | 🛠️ Developer
+  🎓 ICT Undergrad | 💻 Competitive Programmer
 </p>
 
 ---
